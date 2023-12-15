@@ -7,3 +7,5 @@
    * Tran Hai Nam
    * Vu Mai Dung
    * Nguyen Phuong Thao
+
+  [Link to Slide](https://www.canva.com/design/DAF2K8vfZoo/YvpYnUuD-aOyaXAG1LSKXw/edit?utm_content=DAF2K8vfZoo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
