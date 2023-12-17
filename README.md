@@ -3,7 +3,7 @@
 ## Project Data Preparation and Visualization
 
 ### This is the notebook for the final Credit Default Risks project by Group 11, DSEB K63, NEU
-  **Team member**
+### Team member
    * Tran Hai Nam
    * Vu Mai Dung
    * Nguyen Phuong Thao
