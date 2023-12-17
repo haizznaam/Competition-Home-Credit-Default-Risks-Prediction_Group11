@@ -27,11 +27,11 @@
   
   * Vu Mai Dung:
     - EDA:<br />
-      * 03_Bureau
-      * 04_Bureau_balance
+      * 03_Bureau - EDA
+      * 04_Bureau_balance - EDA
     - Feature Engineer: <br />
-      * 03_Bureau
-      * 04_Bureau_balance
+      * 03_Bureau - FE
+      * 04_Bureau_balance - FE
     - Slide
 
   * Nguyen Phuong Thao
