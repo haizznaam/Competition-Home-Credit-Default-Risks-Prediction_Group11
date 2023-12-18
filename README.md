@@ -44,6 +44,8 @@
     - Feature Engineer: <br />
       * 05_credit_card_balance - FE
       * 06_instalment_payment - FE
+    - Model:
+      * final_model (feature selection, evaluating model, final prediction)
     - Report
 
 
