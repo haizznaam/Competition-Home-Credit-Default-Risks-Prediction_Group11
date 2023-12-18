@@ -8,9 +8,9 @@
    * Vu Mai Dung
    * Nguyen Phuong Thao
 
-### [Link to Presentation Slide](https://www.canva.com/design/DAF2K8vfZoo/YvpYnUuD-aOyaXAG1LSKXw/edit?utm_content=DAF2K8vfZoo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+#### [Link to Presentation Slide](https://www.canva.com/design/DAF2K8vfZoo/YvpYnUuD-aOyaXAG1LSKXw/edit?utm_content=DAF2K8vfZoo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
  
-### [Link to Project Report](https://docs.google.com/document/d/1z6GprK38Q8OhzTztWq2D7kwbY-2NWbNSWqGtPp395oE/edit?usp=sharing)
+#### [Link to Project Report](https://docs.google.com/document/d/1z6GprK38Q8OhzTztWq2D7kwbY-2NWbNSWqGtPp395oE/edit?usp=sharing)
  
  ### Assigned work:
  * Tran Hai Nam (group leader): 
