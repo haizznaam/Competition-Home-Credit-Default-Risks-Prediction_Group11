@@ -1,8 +1,9 @@
 # Group-11_Project_Credit_Default_Risk
 
-## Project Data Preparation and Visualization
+A credit risk modeling project in Data Preparation and Visualization
 
-### This is the notebook for the final Credit Default Risks project by Group 11, DSEB K63, NEU
+In the banking and financial industry, credit risk modeling is one of the most important tasks. Instead of using complex models, data scientists must utilize the basic model because of its explainability. Therefore, the preprocessing steps need to be carefully taken. You will have to explore the data and perform data preparation to improve the performance of the default Logistic Regression model with the given dataset.
+
 ### Team member
    * Tran Hai Nam
    * Vu Mai Dung
