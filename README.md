@@ -1,4 +1,4 @@
-# Group-11_Project_Credit_Default_Risk
+# Homne Credit Default Risks Prediction
 
 A credit risk modeling project in Data Preparation and Visualization
 
